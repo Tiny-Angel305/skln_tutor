@@ -9,11 +9,17 @@ Firebase Example : Sign Up for Tutor & Studnet Platform
 - Design with Avocode
 
 - Firebase dependencies;
+
 	firestore - 19
+	
 	storage - 17
+	
 	auth - 17
+	
 	core - 16.0.7
+	
 	crashlytics - 2.10.1
+	
 
 - Other used libraries
 
